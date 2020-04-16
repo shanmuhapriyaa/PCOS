@@ -2,7 +2,7 @@ aniso8601==8.0.0
 astroid==2.1.0
 backcall==0.1.0
 binarytree==4.0.0
-bleach==3.1.0
+bleach==3.1.4
 boto==2.49.0
 boto3==1.8.1
 botocore==1.11.1
