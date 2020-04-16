@@ -1,0 +1,10 @@
+age,gender,weight,height,hair_Volume,sugar _Level,insulin_Level,bp_Level,periods_Duration,cycle_Length,hereditary,uterine_Bleeding,androgen_Level,haemoglobin,dark_Patches,acne,excess_Hair_Growth, loose_Weight,hygiene_Level,occupation,healthy_Food,sleep,exercise,smoker,alcoholic,other_Medical_History,any_Drugs,area_Of_Living,stress_Level,married,thyroid_problem,years_Since_Wedding,child_Count,gap_ Mrg_Child,treatment_Taken,disease_Present_Not
+25,F,52,151,N,2,4,3,2,3,Y,N,0.05,4.02,N,Y,N,N,4,W,4,6,1,N,N,N,N,U,3,N,N,0,0,0,N,no_risk
+26,F,50,160,N,3,4,3,4,5,Y,N,0.25,5.9,N,Y,Y,N,4,W,4,5,0,N,N,N,N,U,4,N,N,0,0,0,N,no_risk
+30,F,60,162,N,3,4,3,5,4,N,N,0.23,3.9,N,Y,Y,N,3,W,3,5,0,N,N,N,Y,U,5,Y,Y,2,0,0,Y,low_risk
+27,F,58,164,T,2,3,3,3,8,N,Y,1.23,3.14,Y,Y,Y,N,3,W,6,4,1,N,N,N,N,U,5,Y,N,1,0,0,N,low_risk
+20,F,78,164,D,3,3,3,4,2,Y,Y,1.62,3.2,Y,Y,Y,Y,3,H,6,8,0,N,N,N,N,V,4,N,N,0,0,0,N,low_risk
+31,F,52,150,D,3,2,3,3,3,N,Y,2.13,3.6,Y,Y,N,N,5,W,2,5,0,Y,N,Y,N,U,5,N,Y,0,0,0,Y,high_risk
+25,F,50,165,D,3,3,3,4,3,Y,N,0.132,4.02,N,N,N,N,4,H,7,4,4,N,N,N,N,V,4,Y,N,1,0,1,N,no_risk
+23,F,56,169,T,4,5,4,6,7,N,Y,2.36,3.6,Y,Y,N,N,4,W,2,5,1,N,N,N,N,U,3,N,N,0,0,0,N,low_risk
+24,F,54,156,N,3,4,3,3,6,Y,N,0.23,5.3,N,Y,Y,N,3,W,7,8,2,N,N,N,N,U,4,N,N,0,0,0,N,no_risk
